@@ -24,6 +24,10 @@ const randomNumber = new Date().valueOf()
 console.log(randomTxt())
 console.log(randomTxt(salt))
 console.log(randomTxt(salt, randomNumber))
+
+// GsXvQ5
+// zXTljizg
+// YFJmWXck
 ```
 
 # License
