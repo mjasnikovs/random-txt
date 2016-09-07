@@ -1,6 +1,6 @@
 {
   "name": "random-txt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate URL safe random string from numeric value",
   "main": "index.js",
   "scripts": {
