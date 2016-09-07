@@ -17,7 +17,7 @@ $ npm install random-txt
 
 # How to use
 ```JavaScript
-const randomTxt = require('randomTxt')
+const randomTxt = require('random-txt')
 const salt = 867
 const randomNumber = new Date().valueOf()
 
