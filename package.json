@@ -1,0 +1,23 @@
+{
+  "name": "random-txt",
+  "version": "1.0.0",
+  "description": "Generate URL safe random string from numeric value",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjasnikovs/random-txt.git"
+  },
+  "keywords": [
+    "random",
+    "string"
+  ],
+  "author": "Edgars Mjasņiokovs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjasnikovs/random-txt/issues"
+  },
+  "homepage": "https://github.com/mjasnikovs/random-txt#readme"
+}
